@@ -4,7 +4,6 @@ package org.example;
  * Interface describing behaviour of a stack
  */
 public interface Stack {
-
     /**
      * Tests if this stack is empty
      */
